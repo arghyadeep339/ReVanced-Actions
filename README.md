@@ -4,11 +4,11 @@
 They are open-source scripts for patching various apps like YouTube, YouTube Music... However, they are very difficult to use for most users. That's why I created this repository to provide an easier way.
 </h4>
 <div align="center">
-  
+
 [![Image of https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/View-Counter/blob/main/repos/Revanced-And-Revanced-Extended-Non-Root_609906498/svg/count.svg)](https://github.com/FiorenMas/View-Counter)
 [![Image of https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/actions](https://img.shields.io/github/actions/workflow/status/fiorenmas/Revanced-And-Revanced-Extended-Non-Root/ci.yml)](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/actions)
 [![](https://img.shields.io/badge/Telegram-2CA5E0)](https://t.me/fioren374)
-  
+
 </div>
 
 ---
@@ -17,9 +17,9 @@ Simply, all you need to do is choose the app you want to use from the options be
 
 > [!NOTE]
 > If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG](https://github.com/ReVanced/GmsCore/releases).
-> 
+>
 > If you are an advanced user and you want to use custom patches for patching apps, you should read the [Wiki](../main/docs/Frequently%20Asked%20Questions.md#q-how-do-i-use-this-repository-for-patching-my-own-app).
-> 
+>
 > All the code is open-source, clearly, and the APK files used for patching are downloaded from a trusted site, so it is totally safe for you to use.
 
 ---
@@ -27,22 +27,22 @@ Simply, all you need to do is choose the app you want to use from the options be
 Download
 </h1>
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > Beta versions mean using dev patches, not using beta apk files. Beta version have the same package name as Stable version, so installing them will overwrite Stable version.
 >
 > This repository doesn't create new releases because it includes multiple projects, which would result in spamming releases every day. You should follow the dev repository for updates.
-> 
+>
 ---
 
 ## [MicroG ReVanced:](https://github.com/ReVanced/GmsCore)
 
-[![Release](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=All-arch&style=for-the-badge)](https://github.com/ReVanced/GmsCore/releases) 
+[![Release](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=All-arch&style=for-the-badge)](https://github.com/ReVanced/GmsCore/releases)
 
 ---
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > A lite version is a version with unnecessary things removed. For example, it might only have an English interface and remove unused screen DPI from split APKs
 >
 
@@ -58,7 +58,7 @@ Download
 
 <details>
   <summary>Lite version</summary>
-  
+
 | [Stable version](https://github.com/ReVanced/revanced-patches/releases/latest)      | [Beta version](https://github.com/ReVanced/revanced-patches/releases)                 |
 | ----------------------------------------------------------------------------------  | ------------------------------------------------------------------------------------- |
 | [Arm64-v8a](../../releases/download/all/youtube-lite-arm64-v8a-revanced.apk)        | [Arm64-v8a](../../releases/download/all/youtube-lite-beta-arm64-v8a-revanced.apk)     |
@@ -78,7 +78,7 @@ Download
 
 <details>
   <summary>Lite version</summary>
-  
+
 | [Stable version](https://github.com/inotia00/revanced-patches/releases/latest)               | [Beta version](https://github.com/inotia00/revanced-patches/releases)                          |
 | -------------------------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------------- |
 | [Arm64-v8a](../../releases/download/all/youtube-lite-arm64-v8a-revanced-extended.apk)        | [Arm64-v8a](../../releases/download/all/youtube-lite-beta-arm64-v8a-revanced-extended.apk)     |
@@ -98,7 +98,7 @@ Download
 
 <details>
   <summary>Lite version</summary>
-  
+
 | [Stable version](https://github.com/anddea/revanced-patches/releases/latest)      | [Beta version](https://github.com/anddea/revanced-patches/releases)                 |
 | ----------------------------------------------------------------------------------  | ------------------------------------------------------------------------------------- |
 | [Arm64-v8a](../../releases/download/all/youtube-lite-arm64-v8a-anddea.apk)        | [Arm64-v8a](../../releases/download/all/youtube-lite-beta-arm64-v8a-anddea.apk)     |
@@ -118,6 +118,17 @@ Download
 
 [x86_64](../../releases/download/all/youtube-x86_64-revanced-extended-android-6-7.apk)
 
+### [Revanced Extended For Android 6 & 7 forked by arghya:](https://github.com/arghya339/revanced-patches-android6-7/tree/revanced-extended)
+
+[All Architectures](../../releases/download/all/youtube-revanced-extended-android-6-7-arghya.apk)
+
+[Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-revanced-extended-android-6-7-arghya.apk)
+
+[Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-revanced-extended-android-6-7-arghya.apk)
+
+[x86](../../releases/download/all/youtube-x86-revanced-extended-android-6-7-arghya.apk)
+
+[x86_64](../../releases/download/all/youtube-x86_64-revanced-extended-android-6-7-arghya.apk)
 
 ### [Revanced Extended For Android 5:](https://github.com/d4n3436/revanced-patches-android5)
 
